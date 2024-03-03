@@ -2,7 +2,7 @@
 
 Submitted by: **Ashley Hendrata**
 
-**Wordle** is an app that ... [TODO] 
+**Wordle** is an app that allows you to guess the goal word chosen by customized constraints such as theme, word length, and number of attempts!
 
 Time spent: **1** hour spent in total
 
