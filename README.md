@@ -26,11 +26,12 @@ The following **additional** features will be implemented:
 
 ## Video Walkthrough
 
+https://github.com/ashhendrata/Wordle-Part2/assets/134671782/95328bf6-7459-45a5-9f2f-97cccc32171e
 
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+My greatest challenge was defining the applyIsAlienWordleSettings function. However, with the help of hints and tracing, I did it!
 
 ## License
 
